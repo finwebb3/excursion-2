@@ -85,6 +85,15 @@ td {
     padding: 40px;
     width: 95%;
     max-width: 1200px;
+.title-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.title-nav li {
+  display: inline-block;
+  margin-right: 2.5px;
 }
 
 .title-logo {
